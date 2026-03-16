@@ -1,0 +1,60 @@
+people:
+  - lastName: Смирнова
+    firstName: Елена
+    patronymic: Дмитриевна
+    city: Санкт-Петербург
+    address: Невский пр., д. 45, кв. 78
+  
+  - lastName: Кузнецов
+    firstName: Андрей
+    patronymic: Сергеевич
+    city: Екатеринбург
+    address: ул. Малышева, д. 7, кв. 123
+  
+  - lastName: Попова
+    firstName: Ольга
+    patronymic: Викторовна
+    city: Новосибирск
+    address: пр. Карла Маркса, д. 15, кв. 34
+  
+  - lastName: Васильев
+    firstName: Дмитрий
+    patronymic: Алексеевич
+    city: Казань
+    address: ул. Баумана, д. 22, кв. 5
+  
+  - lastName: Морозова
+    firstName: Наталья
+    patronymic: Павловна
+    city: Сочи
+    address: ул. Курортный пр., д. 101, кв. 256
+  
+  - lastName: Волков
+    firstName: Максим
+    patronymic: Игоревич
+    city: Нижний Новгород
+    address: ул. Рождественская, д. 12, кв. 41
+  
+  - lastName: Алексеева
+    firstName: Татьяна
+    patronymic: Романовна
+    city: Калининград
+    address: ул. Мира, д. 5, кв. 18
+  
+  - lastName: Лебедев
+    firstName: Кирилл
+    patronymic: Артемович
+    city: Самара
+    address: Московское ш., д. 17, кв. 89
+  
+  - lastName: Соколова
+    firstName: Анастасия
+    patronymic: Михайловна
+    city: Владивосток
+    address: ул. Светланская, д. 33, кв. 12
+  
+  - lastName: Новиков
+    firstName: Павел
+    patronymic: Владиславович
+    city: Ростов-на-Дону
+    address: пр. Ворошиловский, д. 55, кв. 67
